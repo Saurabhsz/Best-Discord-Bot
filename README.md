@@ -23,7 +23,7 @@ Bot also adds **a new mention** like @everyone and @here, the `@someone`, which 
 
 ### Many commands
 
-Egglord has a lot of features, with **11 categories**:
+Bot has a lot of features, with **11 categories**:
 
 *   🎉  **Fun**: `advice`, `fact`, `meme`, `reminder`, `pokmeon` and **5** more! 
 *   💬  **Guild**: `avatar`, `giveaway`, `server-info`, `poll`, and **4** more! 
@@ -50,4 +50,4 @@ If you wish to contribute to the BOT's codebase or documentation, feel free to f
 
 ## License
 
-Egglord is licensed under the Apache license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+Bot is licensed under the Apache license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
