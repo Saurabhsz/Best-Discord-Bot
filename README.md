@@ -1,27 +1,25 @@
-# EggLord
-[![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/8g6zUQu)
+# Discord Bot forward by : Meezy#0226
+[![Discord](https://img.shields.io/discord/658113349384667198.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/3nTFpUpq8M)
 [![](https://img.shields.io/badge/discord.js-v12.0.0-blue.svg?logo=npm)](https://github.com/discordjs)
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2F86.25.177.233%2F)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Spiderjockey02/Discord-Bot)
-[![CodeFactor](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/badge/master)](https://www.codefactor.io/repository/github/spiderjockey02/discord-bot/overview/master)
+
 
 > This bot is used by more than 100,000 Discord users and more than 20 servers.
 
-Egglord is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [SpiderJockey02](https://github.com/Spiderjockey02).  
+This bot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Meezy#0226](https://github.com/Spiderjockey02).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Features
 
 ### Complete Bot
 
-EggLord offers:
+Bot offers:
 *   ✉️ Support for commands in direct messages.
 *   ⚙️ Guild configuration (prefix, ignored channels, etc...)
 *   📂 Extensive logging system (message/channel/role/emoji updates, (un)bans/kicks etc...)
 *   🚓 Advanced Auto-moderation feature (stop bad words, excessive emojis/mentions/spoilers/caps, server invites etc...)
 *   👋 Welcome plugin (send welcome/leave message, give roles etc...)
 
-Egglord also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
+Bot also adds **a new mention** like @everyone and @here, the `@someone`, which allows you to pick a random member of the server!
 
 ### Many commands
 
@@ -43,17 +41,12 @@ Egglord has a lot of features, with **11 categories**:
 
 ## Links
 
-*   [Invite link](https://discord.com/oauth2/authorize?client_id=647203942903840779&permissions=485846102&scope=bot)
-*   [Wiki](https://github.com/Spiderjockey02/Discord-Bot/wiki)
-*   [Discord](https://discord.gg/8g6zUQu)
-*   [Github](https://github.com/Spiderjockey02/Discord-Bot)
-*   [Dashboard](https://www.google.com)
+*   [Invite link](https://discord.com/oauth2/authorize?client_id=796578809360547891&scope=bot&permissions=8589934591)
 
 ## Contributing
 
-Before **creating an issue**, please ensure that it hasn't already been reported/suggested, and double-check the [F.A.Q](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/FAQ).   
-And if you have a question, please ask it in the [Discord server](https://discord.gg/8g6zUQu) instead of opening an issue.
-If you wish to contribute to the Egglord's codebase or documentation, feel free to fork the repository and submit a pull request!
+And if you have a question, please ask it in the [Discord server](https://discord.gg/3nTFpUpq8M) instead of opening an issue.
+If you wish to contribute to the BOT's codebase or documentation, feel free to fork the repository and submit a pull request!
 
 ## License
 
